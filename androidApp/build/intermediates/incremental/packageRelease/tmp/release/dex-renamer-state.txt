@@ -1,0 +1,4 @@
+#Wed Mar 03 13:50:28 BRT 2021
+base.0=/Users/rodrigo.fogaca/dev/projects/KMMSamples/androidApp/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

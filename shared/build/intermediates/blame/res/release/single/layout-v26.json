@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rodrigo.fogaca/dev/projects/KMMSamples/shared/build/intermediates/res/merged/release/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/rodrigo.fogaca/.gradle/caches/transforms-2/files-2.1/ec8a8ec5c062eee57138c444041b9d89/material-1.2.1/res/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "/Users/rodrigo.fogaca/dev/projects/KMMSamples/shared/build/intermediates/res/merged/release/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/rodrigo.fogaca/.gradle/caches/transforms-2/files-2.1/54ef264ed2c337cc27ec78210bcf7dba/appcompat-1.1.0/res/layout-v26/abc_screen_toolbar.xml"
+    }
+]
