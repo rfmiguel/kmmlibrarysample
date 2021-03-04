@@ -1,2 +1,0 @@
-com/example/kmmcodelab/shared/BuildConfig.java
- com.example.kmmcodelab.shared.BuildConfig
