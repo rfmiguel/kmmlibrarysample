@@ -32,11 +32,11 @@ bintray {
 
     pkg {
         repo = 'maven'
-        name = 'com.example.androidlibrary
+        name = 'com.example.kmmcodelab'
         configurations = ['archives']
-        desc = 'An android library.'
-        websiteUrl = 'https://github.com/cuttlesoft/android-library-example'
-        vcsUrl = 'https://github.com/cuttlesoft/anroid-library-example.git'
+        desc = 'An kmm android library example.'
+        websiteUrl = 'https://github.com/rfmiguel/kmmlibrarysample'
+        vcsUrl = 'https://github.com/rfmiguel/kmmlibrarysample.git'
         licenses = ["Apache-2.0"]
         publish = true
         publicDownloadNumbers = true

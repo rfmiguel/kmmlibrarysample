@@ -7,11 +7,11 @@ install {
         pom {
             project {
                 packaging 'aar'
-                groupId 'com.example.androidlibrary'
+                groupId 'com.example.kmmcodelab'
                 artifactId 'androidlibrary'
                 name 'androidlibrary'
                 description 'An android library.'
-                url 'https://github.com/cuttlesoft/android-library-example'
+                url 'https://github.com/rfmiguel/kmmlibrarysample'
 
                 licenses {
                     license {
@@ -22,16 +22,16 @@ install {
 
                 developers {
                     developer {
-                        id 'cuttlesoft'
-                        name 'Marisa Gomez'
-                        email 'marisa.gomez@cuttlesoft.com'
+                        id 'rfmiguel'
+                        name 'Rodrigo Fogaca'
+                        email 'rfmiguel@yahoo.com.br'
                     }
                 }
 
                 scm {
-                    connection 'https://github.com/cuttlesoft/android-library-example.git'
-                    developerConnection 'https://github.com/cuttlesoft/android-library-example.git'
-                    url 'https://github.com/cuttlesoft/android-library-example'
+                    connection 'hhttps://github.com/rfmiguel/kmmlibrarysample.git'
+                    developerConnection 'https://github.com/rfmiguel/kmmlibrarysample.git'
+                    url 'https://github.com/rfmiguel/kmmlibrarysample'
                 }
             }
         }
