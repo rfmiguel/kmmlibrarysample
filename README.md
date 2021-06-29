@@ -1,2 +1,2 @@
 # kmmlibrarysample
-kmm library example usig coroutines, ktor , serialization
+kmm library example using coroutines, ktor , serialization
