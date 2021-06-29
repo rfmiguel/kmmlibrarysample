@@ -1,0 +1,2 @@
+br/com/concrete/shared/BuildConfig.java
+ br.com.concrete.shared.BuildConfig
